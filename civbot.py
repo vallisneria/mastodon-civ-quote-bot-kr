@@ -3,7 +3,7 @@ import json
 import random as rand
 
 
-with open("key\\key.json", encoding="utf-8") as key:
+with open("../key/mastodon.json", encoding="utf-8") as key:
     token: dict = json.load(key)
 
 Civbot = Mastodon(
@@ -11,7 +11,7 @@ Civbot = Mastodon(
     api_base_url='https://mastodon.social'
 )
 
-with open("quotes\\quotes.json", encoding="utf-8") as fp:
+with open("./quotes/quotes.json", encoding="utf-8") as fp:
     quotes: dict = json.load(fp)
 
 i = rand.randint(0, len(quotes)-1)
