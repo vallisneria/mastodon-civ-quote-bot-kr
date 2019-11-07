@@ -1,29 +1,18 @@
+# 모듈 import 부분
 from mastodon import Mastodon
-from datetime import datetime
-import json
 import random as rand
+import json
+from key import MASTODON_ACCESS_TOKEN
 
 
-with open("./key/key.json", encoding="utf-8") as key:
-    token: dict = json.load(key)
-
+# 메인 코드 부분
 Civbot = Mastodon(
-    access_token=token["key"],
+    access_token=MASTODON_ACCESS_TOKEN,
     api_base_url='https://mastodon.social'
 )
 
-
-time = datetime.today().minute
-if (time >= 40):
-    with open("./quotes/civ5quotes.json", encoding="utf-8") as fp:
-        quotes: dict = json.load(fp)
-elif (time >= 20):
-    with open("./quotes/civBEquotes.json", encoding="utf-8") as fp:
-        quotes: dict = json.load(fp)
-else:
-    with open("./quotes/civ6quotes.json", encoding="utf-8") as fp:
-        quotes: dict = json.load(fp)
-
+with open("quotes/civquotes.json", encoding="utf-8") as json_file:
+    quotes = json.load(json_file)
 
 i = rand.randint(0, len(quotes)-1)
 

@@ -1,6 +1,9 @@
 # IDE 설정이 들어있는 폴더
 .vscode/
+.idea/
 
-# API 인증 키가 들어있는 폴더
-# 타인에게 절대 공개하면 안됨!
-key/
+# API 키가 들어있는 폴더
+key.py
+
+##
+__pycache__/
