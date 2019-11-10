@@ -508,238 +508,238 @@
         "name": "구오 푸 야올란",
         "quote": "기적은 인간의 노력을 통해 드러나는 신성이다. 너희는 창고를 만들라. 뜨고도 보지 못하는 너희의 눈, 내키지 않아 하는 너희의 손, 알지도 못하는 너희의 기교를 통해 신께서 그분의 영광을 실현하는 성전으로 만드실 것이니.",
         "author": "<타쿠리트 서한> 6:2-4",
-        "image": "./images/be/Guo_Pu_Yaolan.png"
+        "image": "/images/be/Guo_Pu_Yaolan.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "나노테르미트",
         "quote": "힘으로 문제를 해결하면 바로 결과가 나오므로 참으로 만족스럽습니다.",
         "author": "레지날도 레오나르도 페드로 볼리바르 데 알렌카-아라리페, <현대전의 원칙>",
-        "image": "./images/be/Nanothermite.png"
+        "image": "/images/be/Nanothermite.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "다이달로스의 사다리",
         "quote": "이 육체를 넘어,\n이 꿈을 넘어,\n나는 별들 사이에서 춤을 추었습니다.\n내 아이들은 끝없는 세상에서 춤을 춥니다.",
         "author": "카비타 타쿠르, <대이주 경전의 영광스러운 열쇠>",
-        "image": "./images/be/Daedalus_Ladder.png"
+        "image": "/images/be/Daedalus_Ladder.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "대량 추진 장치",
         "quote": "가능하다면 상대가 지면을 유리하게 이용하는 것을 무효화해야 합니다. 적을 내려다볼 수 없다면 적의 위치를 깎아내려야 합니다.",
         "author": "레지날도 레오나르도 페드로 볼리바르 데 알렌카-아라리페, <현대전의 원칙>",
-        "image": "./images/be/Mass_Driver.png"
+        "image": "/images/be/Mass_Driver.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "드론의 구",
         "quote": "드론의 구 안에선 태양왕이나 여왕 같은 사람들이 아첨하는 신하들한테 둘러싸여 사는 절정기에 베르사유에 온 것 같아요.",
         "author": "엘로디, <고찰>",
-        "image": "./images/be/Drone_Sphere.png"
+        "image": "/images/be/Drone_Sphere.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "마르코프 이클립스",
         "quote": "인류의 자산 중 가장 귀중한 것은 한쪽 발은 규범에, 다른 쪽 발은 세계에 담그고 있으면서도 여전히 단단한 땅 위에 서 있다는 것입니다.",
         "author": "수잔 마저리 필딩, <원거리 행성의 관리, 방식, 자원>",
-        "image": "./images/be/Markov_Eclipse.png"
+        "image": "/images/be/Markov_Eclipse.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "메메트워크",
         "quote": "어떤 생각은 나쁜 생각입니다. 더 좋은 생각을 하면 더 좋은 콜로니를 만들 수 있습니다.",
         "author": "바딤 코즐로프, <중앙 부처 의사록 공리>",
-        "image": "./images/be/Memetwork.png"
+        "image": "/images/be/Memetwork.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "바이트가이스트",
         "quote": "언제든지 접속할 수 있는 이 유쾌한 바이트가이스트를 어떻게 싫어할 수가 있나요! 이것 없이는 못 살거에요!",
         "author": "엘로디, <고찰>",
-        "image": "./images/be/Bytegeist.png"
+        "image": "/images/be/Bytegeist.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "부활 장치",
         "quote": "나는 이 세계를 떠났다.\n하지만 경계선에 섰을 때,\n말소리가 들렸다.\n'떠나지 마세요. 우리는 당신이 필요합니다!'\n나는 연민을 느끼고 돌아왔다.",
         "author": "카비타 타쿠르, <바가바드 4>",
-        "image": "./images/be/Resurrection_Device.png"
+        "image": "/images/be/Resurrection_Device.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "사이노슈어",
         "quote": "잠 자지 않는 사이노슈어를 경계하라. 그들은 영겁의 시간에 정신을 두고 있는 골렘과 같으니.",
         "author": "카비타 타쿠르, <칼리 명상>",
-        "image": "./images/be/Cynosure.png"
+        "image": "/images/be/Cynosure.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "새로운 지구인 전설",
         "quote": "'일어서라. 오, 사람들이여.' 우주의 신이 말했다. '내가 너희를 여러 정원으로 이끄리라.' 그러자 사람들이 대단히 기뻐하며 별들 사이로 나아갔다.",
         "author": "<대이주 경전> I:2",
-        "image": "./images/be/New_Terran_Myth.png"
+        "image": "/images/be/New_Terran_Myth.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "스텔라 코덱스",
         "quote": "마우이와 히나는 지구의 모든 바다를 다 돌아보던 눈을 들어 새로운 바다를 바라보았습니다. 그들은 여전히 항해 중입니다.",
         "author": "나이노아 찰스, <폴리스트레일리아의 신개척자들>",
-        "image": "./images/be/Stellar_Codex.png"
+        "image": "/images/be/Stellar_Codex.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "심층 기억",
         "quote": "아마 '기억한다'고 말할지도 모르지만, 우리는 우리 조상이 기억한 바를 기억하고, 우리 조상의 조상이 기억하던 것도 잊지 않아야 합니다.",
         "author": "사마타르 자마 바레, <이것은 유배가 아니다>",
-        "image": "./images/be/Deep_Memory.png"
+        "image": "/images/be/Deep_Memory.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "심해의 거울",
         "quote": "폴 버니언이 죽자, 사람들은 그를 바다에 매장했습니다. 조그마한 물고기들이 폴 버니언의 시체를 먹어치우더니 바다 드래곤으로 변했고, 그의 피를 마신 오징어들은 크라켄이 되었습니다. 아난시는 폴의 눈알 하나를 훔쳐 그것으로 별을 바라보았습니다.",
         "author": "<복제된 적이 없는 삼촌 이야기>",
-        "image": "./images/be/Abyssal_Mirror.png"
+        "image": "/images/be/Abyssal_Mirror.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "아르키메데스의 레버",
         "quote": "전쟁터가 불공평하거나 자신을 편애한다고 생각지 마라.",
         "author": "레지날도 레오나르도 페드로 볼리바르 데 알렌카-아라리페, <현대전의 원칙>",
-        "image": "./images/be/Archimedes_Lever.png"
+        "image": "/images/be/Archimedes_Lever.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "아마세일",
         "quote": "준비에 철저한 사업가는 방탄 계약서와 함께 방탄 조끼를 입습니다.",
         "author": "후타마, <우리 모두는 번영할 것입니다>",
-        "image": "./images/be/Armasail.png"
+        "image": "/images/be/Armasail.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "아코로카무이",
         "quote": "유전학자들은 단기간에 키울 수 있으나 장기적으로는 유독한 존재를 만들어냅니다. 과오 이전의 문화가 남긴 예스러운 유물로서 과잉 보호하는 부모가 떠오릅니다.",
         "author": "엘로디, <고찰>",
-        "image": "./images/be/The_Akkorokamui.png"
+        "image": "/images/be/The_Akkorokamui.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "앤서블",
         "quote": "부대는 언제 도착하지? 지금인가? 더 빨리 보낼 수 있나?",
         "author": "바딤 코즐로프, <중앙 부처 의사록 공리>",
-        "image": "./images/be/Ansible.png"
+        "image": "/images/be/Ansible.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "양자 컴퓨터",
         "quote": "양자 컴퓨터에 대해 내가 가장 좋아하는 점은 어떤 누군가의 어떤 위치에서 무에서 유를 얻을 수 있다는 점입니다.",
         "author": "수잔 마저리 필딩, <원거리 행성의 관리, 방식, 자원>",
-        "image": "./images/be/Quantum_Computer.png"
+        "image": "/images/be/Quantum_Computer.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "예지 프로젝트",
         "quote": "눈을 떠라. 그리고 다시 떠라. 자신의 앞날을 보아라. 다시 앞을 보아라.",
         "author": "카비타 타쿠르, <대이주 경전의 영광스러운 열쇠: 5번째 전개>",
-        "image": "./images/be/Precog_Project.png"
+        "image": "/images/be/Precog_Project.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "유광대 스트랜드",
         "quote": "나는 소멸 직전의 해저 생태계에 추가로 태양 자본을 주입한 결과를 목이 빠지게 기다리고 있습니다. 분열은 항상 긍정적인 힘입니다.",
         "author": "수잔 마저리 필딩, <원거리 행성의 관리, 방식, 자원>",
-        "image": "./images/be/Euphotic_Strand.png"
+        "image": "/images/be/Euphotic_Strand.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "유전자 보관실",
         "quote": "지구의 신화 속 동물 다섯 가지는 용, 유니콘, 그리핀, 라마, 키메라입니다.",
         "author": "가네쉬 에드민, <선사학 목록>",
-        "image": "./images/be/Gene_Vault.png"
+        "image": "/images/be/Gene_Vault.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "인간 하이브",
         "quote": "최고위 인물의 목표는 개인의 목표를 보다 큰 정치적, 경제적, 그리고 조직의 목표와 맞추는 것이 되어야 합니다. 조직에게 좋은 것은 항상 개인에게도 제일 좋은 법입니다.",
         "author": "수잔 마저리 필딩, <원거리 행성의 관리, 방식, 자원>",
-        "image": "./images/be/Human_Hive.png"
+        "image": "/images/be/Human_Hive.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "제노노바",
         "quote": "아이를 사랑하고 건강히 키우려는 어머니의 눈으로 행성을 바라보라. 그러면 이 새로운 세계의 많은 면이 자연적으로 이해가 될 것이다.",
         "author": "사마타르 자마 바레, <이것은 유배가 아니다>",
-        "image": "./images/be/Xenonova.png"
+        "image": "/images/be/Xenonova.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "제노드롬",
         "quote": "자연의 소중한 선물을 지키는 게 얼마나 중요한지 너무 늦게 깨달았다. 코끼리가 헤어질 때 준 선물은 다음 행성에서 바람직한 손님이 되는 데 필요한 지혜였던 것이다.",
         "author": "사마타르 자마 바레, <이것은 유배가 아니다>",
-        "image": "./images/be/Xenodrome.png"
+        "image": "/images/be/Xenodrome.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "제노말리움",
         "quote": "행성이 자원 개발을 원치 않는다면, 왜 연료를 만들어 내겠는가?",
         "author": "후타마, <우리 모두는 번영할 것입니다>",
-        "image": "./images/be/Xenomalleum.png"
+        "image": "/images/be/Xenomalleum.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "중앙 통제",
         "quote": "사회 제도를 파악하는 가장 쉬운 방법은 사회 제도를 규범으로 시행하는 것입니다. 사회 제도를 최적화하는 가장 좋은 방법은 그 규범이 세상을 바꾸게 만드는 것입니다.",
         "author": "다오밍 수차, <과학 도덕> 제 14권",
-        "image": "./images/be/Master_Control.png"
+        "image": "/images/be/Master_Control.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "체외발생 팟",
         "quote": "나는 스스로 태어난다. 나는 늘 탄생하고 결코 죽지 않을 것이다.",
         "author": "<대이주 경전> II:3",
-        "image": "./images/be/Ectogenesis_Pod.png"
+        "image": "/images/be/Ectogenesis_Pod.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "크로울러",
         "quote": "존 헨리는 크로울러를 보고 미소를 지으며 말했습니다. \"물론 당신이 흙을 많이 운반할 순 있겠지만, 모호로비치치 불연속면에 누가 먼저 도착할지는 모르는거요.\" 그러고 나서 그는 삽을 들고 시작 신호를 기다렸습니다.",
         "author": "<복제된 적이 없는 삼촌 이야기>",
-        "image": "./images/be/Crawler.png"
+        "image": "/images/be/Crawler.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "테크톤의 모루",
         "quote": "이 행성의 핵은 뜨겁고 밀도가 높으며 폭발하기 쉽다고 들었습니다. 그러고 보니 우리 국회와 비슷하군요.",
         "author": "엘로디, <고찰>",
-        "image": "./images/be/Tectonic_Anvil.png"
+        "image": "/images/be/Tectonic_Anvil.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "파놉티콘",
         "quote": "어느 노병이 남긴 격언에 '보이지 않는 것은 죽일 수 없다'는 말이 있죠. 그 반대 역시 성립합니다.",
         "author": "레지날도 레오나르도 페드로 볼리바르 데 알렌카-아라리페, <현대전의 원칙>",
-        "image": "./images/be/Panopticon.png"
+        "image": "/images/be/Panopticon.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "패러데이 소용돌이",
         "quote": "이 시스템을 우리의 일과 사회에 존재할 상호작용의 모델로 삼읍시다. 커다란 힘이 수많은 요인들에 작용하고, 자연과학의 엄격한 법칙을 이용하고, 행동과 발전의 사례를 만들게 합시다.",
         "author": "바딤 코즐로프, <중앙 부처 의사록 공리>",
-        "image": "./images/be/Faraday_Gyre.png"
+        "image": "/images/be/Faraday_Gyre.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "프로메테우스",
         "quote": "아난시는 남자의 게놈을 보고 말했습니다. \"엉망이야! 이렇게 엉망인데 어떻게 목숨이 붙어 있지?\" 아난시는 빗자루를 집어들고 게놈을 쓸어버렸습니다. 잠이 깬 남자는 기분이 한결 나아졌습니다.",
         "author": "<복제된 적이 없는 삼촌 이야기>",
-        "image": "./images/be/Promethean.png"
+        "image": "/images/be/Promethean.png"
     },
     {
         "version": "문명_비욘드어스",
         "name": "해저용 오거드릴",
         "quote": "당신들은 바다의 풍부한 자원을 제대로 이용하지 못하고 있습니다. 그 이유는 방법을 몰라서가 아니라, 상상력이 부족하기 때문입니다.",
         "author": "던컨 휴즈, <일급 방주의 편지>",
-        "image": "./images/be/Benthic_Auger.png"
+        "image": "/images/be/Benthic_Auger.png"
     },
     {
         "version": "문명_비욘드어스",
