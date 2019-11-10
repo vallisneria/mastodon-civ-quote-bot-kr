@@ -11,7 +11,7 @@ Civbot = Mastodon(
     api_base_url='https://mastodon.social'
 )
 
-with open("quotes/civquotes.json", encoding="utf-8") as json_file:
+with open("/home/vallisneria/mastodon-civ-quote-bot-kr/quotes/civquotes.json", encoding="utf-8") as json_file:
     quotes = json.load(json_file)
 
 i = rand.randint(0, len(quotes)-1)
@@ -26,7 +26,10 @@ else:
 
 
 if "image" in quotes[i]:
-    media = Civbot.media_post(quotes[i]["image"])
+    medialocation = "/home/vallisneria/mastodon-civ-quote-bot/" + quotes[i]["image"]
+    media = Civbot.media_post(medialocation)
     Civbot.status_post(post, media_ids=media, visibility="unlisted")
 else:
     Civbot.status_post(post, visibility="unlisted")
+
+print(post)
