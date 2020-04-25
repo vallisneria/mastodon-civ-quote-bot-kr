@@ -2,11 +2,8 @@
 .vscode/
 .idea/
 
-# API 키가 들어있는 폴더
-key.py
-
-# 메인디렉터리
-directory.py
+# API 키가 들어있는 파일
+key.*
 
 # 기타
 __pycache__/
