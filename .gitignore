@@ -8,5 +8,8 @@ key.*
 # 로그
 *.log
 
+# 리눅스 쉘 스크립트
+*.sh
+
 # pycache
 __pycache__/
