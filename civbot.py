@@ -15,19 +15,19 @@ Civbot = Mastodon(
 with open(DIRECTORY + "/quotes/civ5quotes.json", encoding="utf-8") as json_file:
     quotes = json.load(json_file)
 
-i = rand.randint(0, len(quotes)-1)
+i = rand.choice(quotes)
 
-if quotes[i]["author"] is None:
-    post = "["+quotes[i]["name"]+"]\n" + \
-        quotes[i]["quote"]+"\n#"+quotes[i]["version"]
+if i["author"] is None:
+    post = "["+i["name"]+"]\n" + \
+        i["quote"]+"\n#"+i["version"]
 else:
-    post = "["+quotes[i]["name"]+"]\n" + \
-        quotes[i]["quote"]+"\n- " + \
-        quotes[i]["author"]+"\n#"+quotes[i]["version"]
+    post = "["+i["name"]+"]\n" + \
+        i["quote"]+"\n- " + \
+        i["author"]+"\n#"+i["version"]
 
 
-if "image" in quotes[i]:
-    medialocation = DIRECTORY + quotes[i]["image"]
+if "image" in i:
+    medialocation = DIRECTORY + i["image"]
     media = Civbot.media_post(medialocation)
     Civbot.status_post(post, media_ids=media, visibility="unlisted")
 else:
