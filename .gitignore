@@ -5,5 +5,8 @@
 # API 키가 들어있는 파일
 key.*
 
-# 기타
+# 로그
+*.log
+
+# pycache
 __pycache__/
