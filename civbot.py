@@ -4,7 +4,7 @@ import random as rand
 import json
 from key import MASTODON_ACCESS_TOKEN
 import os
-
+DIRECTORY = os.path.dirname(os.path.realpath(__file__))
 
 # 메인 코드 부분
 Civbot = Mastodon(
@@ -12,7 +12,7 @@ Civbot = Mastodon(
     api_base_url='https://mastodon.social'
 )
 
-with open(os.getcwd() + "/quotes/civ5quotes.json", encoding="utf-8") as json_file:
+with open(DIRECTORY + "/quotes/civ5quotes.json", encoding="utf-8") as json_file:
     quotes = json.load(json_file)
 
 i = rand.choice(quotes)
@@ -27,7 +27,7 @@ else:
 
 
 if "image" in i:
-    medialocation = os.getcwd() + i["image"]
+    medialocation = DIRECTORY + i["image"]
     media = Civbot.media_post(medialocation)
     Civbot.status_post(post, media_ids=media, visibility="unlisted")
 else:
