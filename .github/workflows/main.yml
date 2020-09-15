@@ -17,7 +17,7 @@ jobs:
           
       - name: Install Dependancy
         run: |
-          pip install pip --update
+          pip install pip --upgrade
           pip install -r requirements.txt
           
       - name: Execute program
