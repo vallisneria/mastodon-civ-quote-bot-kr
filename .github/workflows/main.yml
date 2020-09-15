@@ -23,3 +23,6 @@ jobs:
       - name: Execute program
         run: |
           python civbot.py
+        env:
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+          MASTODON_BASE_URL: mastodon.social
