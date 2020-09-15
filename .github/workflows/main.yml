@@ -9,10 +9,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Set Python
+        with:
+          python-version: 3.7
+          
       - name: Install Dependancy
         run: |
           python -m python -m pip install --upgrade pip
           pip install -r requirements.txt
           
       - name: Execute program
-        run: python civbot.py
+        run: |
+          python civbot.py
