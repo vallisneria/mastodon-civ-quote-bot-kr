@@ -9,6 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v2
       - name: Set Python
         uses: actions/setup-python@v2
         with:
@@ -16,7 +17,7 @@ jobs:
           
       - name: Install Dependancy
         run: |
-          python -m python -m pip install --upgrade pip
+          pip install pip --update
           pip install -r requirements.txt
           
       - name: Execute program
