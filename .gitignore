@@ -2,14 +2,5 @@
 .vscode/
 .idea/
 
-# API 키가 들어있는 파일
-key.*
-
-# 로그
-*.log
-
-# 리눅스 쉘 스크립트
-*.sh
-
 # pycache
 __pycache__/
