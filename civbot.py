@@ -26,7 +26,7 @@ else:
 
 if "image" in i:
     medialocation = "." + i["image"]
-    media = Civbot.media_post(medialocation)
+    media = Civbot.media_post(medialocation, mime_type="image/png")
     Civbot.status_post(post, media_ids=media, visibility="unlisted")
 else:
     Civbot.status_post(post, visibility="unlisted")
