@@ -23,6 +23,7 @@ else:
         i["quote"]+"\n- " + \
         i["author"]+"\n#"+i["version"]
 
+print(post)
 
 if "image" in i:
     medialocation = "." + i["image"]
@@ -30,5 +31,3 @@ if "image" in i:
     Civbot.status_post(post, media_ids=media, visibility="unlisted")
 else:
     Civbot.status_post(post, visibility="unlisted")
-
-print(post)
