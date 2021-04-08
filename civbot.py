@@ -14,14 +14,20 @@ with open("./quotes/civ5quotes.json", encoding="utf-8") as json_file:
     quotes = json.load(json_file)
 
 i = rand.choice(quotes)
+post = ""
 
-if i["author"] is None:
-    post = "["+i["name"]+"]\n" + \
-        i["quote"]+"\n#"+i["version"]
-else:
-    post = "["+i["name"]+"]\n" + \
-        i["quote"]+"\n- " + \
-        i["author"]+"\n#"+i["version"]
+if "name" in i:
+    post += "[" + i["name"] + "]\n"
+
+if "quote" in i:
+    post += i["quote"] + "\n"
+
+if "author" in i:
+    post += "- " + i["author"] + "\n"
+
+if "version" in i:
+    post += "#" + i["version"]
+
 
 print(post)
 
