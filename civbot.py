@@ -10,7 +10,7 @@ Civbot = Mastodon(
     api_base_url=os.environ["MASTODON_BASE_URL"]
 )
 
-with open("./quotes/civ5quotes.json", encoding="utf-8") as json_file:
+with open("./quotes/civ5.json", encoding="utf-8") as json_file:
     quotes = json.load(json_file)
 
 i = rand.choice(quotes)
