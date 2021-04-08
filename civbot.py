@@ -16,8 +16,8 @@ with open("./quotes/civ5quotes.json", encoding="utf-8") as json_file:
 i = rand.choice(quotes)
 post = ""
 
-if "name" in i:
-    post += "[" + i["name"] + "]\n"
+if "title" in i:
+    post += "[" + i["title"] + "]\n"
 
 if "quote" in i:
     post += i["quote"] + "\n"
@@ -31,8 +31,8 @@ if "version" in i:
 
 print(post)
 
-if "image" in i:
-    medialocation = "." + i["image"]
+if "_file" in i:
+    medialocation = "." + i["_file"]
     media = Civbot.media_post(medialocation, mime_type="image/png")
     Civbot.status_post(post, media_ids=media, visibility="unlisted")
 else:
