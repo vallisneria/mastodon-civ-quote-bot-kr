@@ -942,7 +942,7 @@
         "name": "성 마가",
         "type": "미술품",
         "author": "도나텔로",
-        "_file": "/images/works/Saint_Mark.png"
+        "_file": "/images/works/St_Mark.png"
     },
     {
         "version": "문명6",
@@ -950,7 +950,7 @@
         "name": "가타멜라타 장군 기마상",
         "type": "미술품",
         "author": "도나텔로",
-        "_file": "/images/works/Equestrian_Statue_of_Gattamelata.png"
+        "_file": "/images/works/Gattamelata.png"
     },
     {
         "version": "문명6",
@@ -966,7 +966,7 @@
         "name": "시스티나 성당 천장화",
         "type": "미술품",
         "author": "미켈란젤로",
-        "_file": "/images/works/Sistime_Chapel_Ceiling.png"
+        "_file": "/images/works/Sistine_Chapel_Ceiling.png"
     },
     {
         "version": "문명6",
@@ -998,7 +998,7 @@
         "name": "영광의 구세주",
         "type": "미술품",
         "author": "안드레이 루블료프",
-        "_file": "/images/works/Savior_in_Glory.png"
+        "_file": "/images/works/Saviour_in_Glory.png"
     },
     {
         "version": "문명6",
@@ -1022,7 +1022,7 @@
         "name": "최후의 심판",
         "type": "미술품",
         "author": "히로니뮈스 보스",
-        "_file": "/images/works/The_Last_Judgement.png"
+        "_file": "/images/works/The_Last_Judgment.png"
     },
     {
         "version": "문명6",
@@ -1070,7 +1070,7 @@
         "name": "연꽃 핀 개울의 고독한 어부",
         "type": "미술품",
         "author": "구영",
-        "_file": "/images/works/Fisherman_in_Reclusion_Among_the_Lotus_Stream.png"
+        "_file": "/images/works/Fishermen_in_Reclusion_Among_the_Lotus_Stream.png"
     },
     {
         "version": "문명6",
@@ -1086,7 +1086,7 @@
         "name": "안드리스 더흐라프",
         "type": "미술품",
         "author": "렘브란트 판 레인",
-        "_file": "/images/works/Andris_de_Graeff.png"
+        "_file": "/images/works/Andries_de_Graeff.png"
     },
     {
         "version": "문명6",
@@ -1142,7 +1142,7 @@
         "name": "성모승천",
         "type": "미술품",
         "author": "엘 그레코",
-        "_file": "/images/works/The_Assumption_of_the_Virgin.png"
+        "_file": "/images/works/Assumption_of_the_Virgin.png"
     },
     {
         "version": "문명6",
@@ -1158,7 +1158,7 @@
         "name": "소나무",
         "type": "미술품",
         "author": "하세가와 도하쿠",
-        "_file": "/images/works/Pine_trees.png"
+        "_file": "/images/works/Pine_Tree.png"
     },
     {
         "version": "문명6",
@@ -1166,7 +1166,7 @@
         "name": "단풍나무",
         "type": "미술품",
         "author": "하세가와 도하쿠",
-        "_file": "/images/works/Maple_tree.png"
+        "_file": "/images/works/Maple_Tree.png"
     },
     {
         "version": "문명6",
@@ -1190,7 +1190,7 @@
         "name": "필립 2세",
         "type": "미술품",
         "author": "소프니스바 안귀솔라",
-        "_file": "/images/works/Phillip_II_of_Spain.png"
+        "_file": "/images/works/Philip_II_of_Spain.png"
     },
     {
         "version": "문명6",
@@ -1246,7 +1246,7 @@
         "name": "쌍마인물도",
         "type": "미술품",
         "author": "장승업",
-        "_file": "/images/works/Ssangma_Immuldo.png"
+        "_file": "/images/works/Ssangma_Inmuldo.png"
     },
     {
         "version": "문명6",
@@ -1342,7 +1342,7 @@
         "name": "폼페이 소녀",
         "type": "미술품",
         "author": "에드모니아 루이스",
-        "_file": "/images/works/Hager.png"
+        "_file": "/images/works/Hagar.png"
     },
     {
         "version": "문명6",
@@ -1350,7 +1350,7 @@
         "name": "수련",
         "type": "미술품",
         "author": "클로드 모네",
-        "_file": "/images/works/Water_Lillies.png"
+        "_file": "/images/works/Water_Lilies.png"
     },
     {
         "version": "문명6",
@@ -1454,7 +1454,7 @@
         "name": "신부의 화장실",
         "type": "미술품",
         "author": "암리타 쉐어 길",
-        "_file": "/images/works/Brides_Toliet.png"
+        "_file": "/images/works/Brides_Toilet.png"
     },
     {
         "version": "문명6",
