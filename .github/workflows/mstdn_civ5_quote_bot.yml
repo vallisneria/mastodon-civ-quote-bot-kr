@@ -1,4 +1,4 @@
-name: mastodon-civ-quote-bot
+name: mastodon-civ5-quote-bot
 
 on:
   schedule:
