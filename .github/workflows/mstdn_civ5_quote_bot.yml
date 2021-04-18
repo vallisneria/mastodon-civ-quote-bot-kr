@@ -1,0 +1,29 @@
+name: mastodon-civ-quote-bot
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.7
+          
+      - name: Install Dependancy
+        run: |
+          pip install pip --upgrade
+          pip install -r requirements.txt
+          
+      - name: Execute program
+        run: |
+          python civbot.py
+        env:
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+          MASTODON_BASE_URL: mastodon.social
+          CIV_VERSION: civ5
